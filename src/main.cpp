@@ -1,6 +1,3 @@
-/// TODO:
-/// - normalizing method for accuracy maybe hack mode temporarily like go code
-
 #include <algorithm>
 #include <cmath>
 #include <cstdint>
