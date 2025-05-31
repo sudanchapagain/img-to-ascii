@@ -1,4 +1,3 @@
-# Image to ASCII
+# media to ASCII
 
-converts image to ASCII via decoding image to extract brightness level and
-mapping brightness level to respective ASCII char.
+converts image and videos to ASCII
